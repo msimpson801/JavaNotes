@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2a1b25a-2a1a-4ed6-b1bb-c60ab756504f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Notes/AvoidingNullPointersWhenComparingStrings.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +32,7 @@
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "C:/Users/marks/Documents/Web Projects/JavaNotes/.idea/Notes",
+    "last_opened_file_path": "C:/Users/marks/Documents/Web Projects/Playground",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +40,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,7 +63,8 @@
       <workItem from="1689754385806" duration="392000" />
       <workItem from="1689754793220" duration="820000" />
       <workItem from="1689930320066" duration="460000" />
-      <workItem from="1689930792955" duration="43000" />
+      <workItem from="1689930792955" duration="721000" />
+      <workItem from="1690019256199" duration="1218000" />
     </task>
     <servers />
   </component>
