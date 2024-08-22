@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2a1b25a-2a1a-4ed6-b1bb-c60ab756504f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Notes/ENUMS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Notes/InnerClass.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Notes/Interface.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Notes/SortingStreams.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Notes/Static.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Notes/DependencyInjection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Notes/Factory pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Notes/Factory pattern.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +101,7 @@
       <workItem from="1692605788109" duration="673000" />
       <workItem from="1692689721183" duration="1549000" />
       <workItem from="1724140987986" duration="4073000" />
-      <workItem from="1724224382008" duration="1390000" />
+      <workItem from="1724224382008" duration="12509000" />
     </task>
     <servers />
   </component>
