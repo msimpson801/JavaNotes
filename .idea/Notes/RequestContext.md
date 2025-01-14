@@ -1,6 +1,6 @@
 # Using Custom Objects in Spring Boot Controllers: A Clean Approach to Header Handling
 
-When a web request has headers in Spring Boot, you typically extract them using the `@RequestHeader` annotation within your controller methods. However, there are times when you need to access these headers across multiple endpoints, and repeatedly extracting them can lead to duplicated code
+When a web request has headers in Spring Boot, you typically extract them using the `@RequestHeader` annotation within your controller methods. 
 
 ```Java
 public class HelloWorldController {  
@@ -16,7 +16,7 @@ public class HelloWorldController {
 }
 ```
 
-But what if you have multiple headers to deal with or the same headers in various controllers? Manually adding annotations  would  be tedious.
+But what if you have multiple headers to deal with or the same headers in various controllers? Repeatedly extracting them can lead to duplicated code
 
 ```Java
 @RestController  
